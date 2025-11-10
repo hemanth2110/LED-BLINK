@@ -56,12 +56,14 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
 
 5. Select the **target microcontroller** or board and click **Next**.
-<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/69d5bf1e-e5d5-4e73-ad35-9f37365160f7" />
+<img width="1918" height="1020" alt="Screenshot 2025-11-09 191722" src="https://github.com/user-attachments/assets/e11de310-b1c2-4337-a096-41c2d495813f" />
+
 
 
 
 6. The corresponding `.ioc` file will be generated automatically.
-<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/081a2994-c5fb-4071-b57f-f47156b21bfa" />
+<img width="1919" height="990" alt="Screenshot 2025-11-09 192423" src="https://github.com/user-attachments/assets/d771caca-de88-4819-9052-3d4dca8329ed" />
+
 
 
 7. Configure the pins as **GPIO (Input/Output)**, **USART**, etc. as needed.
